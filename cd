@@ -1,0 +1,83 @@
+[33mcommit ae3a2b997a9a82244aad4800b70efbc6077ca95c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ubuntu <azureuser@AzureVM.cgpkmh5yuyjerfxwtvoyo4hrwh.bx.internal.cloudapp.net>
+Date:   Wed Mar 9 03:47:03 2022 +0000
+
+    feat: add py fikes
+
+[33mcommit cba7acca5c8571526d151e2528770b3363b7999a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David Berry <dberry83702@yahoo.com>
+Date:   Mon Jan 31 00:26:15 2022 -0600
+
+    Update readme for article deployment
+
+[33mcommit bf5ed85455cda0dc4433445d3c376acd40a08806[m
+Author: David Berry <dberry83702@yahoo.com>
+Date:   Mon Dec 27 09:42:51 2021 -0600
+
+    Added title.  Changed Text to be blue
+
+[33mcommit 13d4a92db59fb798b2f7899694765dc375543e3b[m
+Author: David Berry <dberry83702@yahoo.com>
+Date:   Wed Dec 8 15:19:48 2021 -0600
+
+    Reorg repo so source code is in root folder.  Scripts will now be in a separate repo
+
+[33mcommit c14e5a642583cfb937570b8e29ed8a34db547533[m
+Author: David Berry <dberry83702@yahoo.com>
+Date:   Wed Dec 8 15:16:48 2021 -0600
+
+    Added logging statements
+
+[33mcommit aa008581ab9643292346d84f5d9cf143b85a32a7[m
+Author: David Berry <dberry83702@yahoo.com>
+Date:   Mon Dec 6 23:54:50 2021 -0600
+
+    Initial check in
+
+[33mcommit d71156d4457bbb88e7618117a75472fd421aef55[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Mon Dec 6 21:33:04 2021 -0800
+
+    .github/PULL_REQUEST_TEMPLATE.md committed
+
+[33mcommit 1df8812910de0b3c77ceb92ad01ce68aa0b497ed[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Mon Dec 6 21:33:03 2021 -0800
+
+    .github/ISSUE_TEMPLATE.md committed
+
+[33mcommit 48e87d2909bb22592520b29089272102b3a14840[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Mon Dec 6 21:33:03 2021 -0800
+
+    .github/CODE_OF_CONDUCT.md committed
+
+[33mcommit f38831d7c9e011f66f59b4725247763f470eb1a9[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Mon Dec 6 21:33:02 2021 -0800
+
+    README.md committed
+
+[33mcommit 9594f4afedeb1d7a50b100c831059e363999ac5c[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Mon Dec 6 21:33:01 2021 -0800
+
+    CHANGELOG.md committed
+
+[33mcommit 583a7074a43dee88899eb01357769e88f3ae0a20[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Mon Dec 6 21:33:00 2021 -0800
+
+    LICENSE.md committed
+
+[33mcommit 665b76db20c71f1abb09c84a376f82fbf467962a[m
+Author: Microsoft Open Source <microsoftopensource@users.noreply.github.com>
+Date:   Mon Dec 6 21:33:00 2021 -0800
+
+    CONTRIBUTING.md committed
+
+[33mcommit 3d2369983d55b9f6f0229ef8092cfcb0fad41940[m
+Author: microsoft-github-operations[bot] <55726097+microsoft-github-operations[bot]@users.noreply.github.com>
+Date:   Tue Dec 7 05:32:57 2021 +0000
+
+    Initial commit
